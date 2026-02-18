@@ -11,6 +11,7 @@
 * **Year:** 2011
 * **Journal/Working Paper:** *World Development*, Vol. 39, No. 7, pp. 1226–1239
 * **DOI/Link:** [10.1016/j.worlddev.2010.05.012](https://doi.org/10.1016/j.worlddev.2010.05.012)
+* **Direct Download:** [1-s2.0-S0305750X11000672-main.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/1-s2.0-S0305750X11000672-main.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study investigates whether foreign direct investment (FDI) inflows act as complements to or substitutes for indigenous R&D efforts of Indian manufacturing firms in the post-1991 liberalization era. Using an unbalanced panel of 1,843 firms over 1994–2005, the authors correct for self-selection bias (firms choosing whether or not to do R&D) through the Heckman two-step procedure. The full-sample analysis yields ambiguous results, but sub-sample analyses based on foreign-equity ownership and technology intensity reveal that FDI and R&D are complements when firms are classified by equity ownership. FDI induces R&D investment among foreign-owned firms in high-tech industries and among firms with minority foreign ownership.
@@ -79,6 +80,7 @@ This study investigates whether foreign direct investment (FDI) inflows act as c
 * **Year:** 2023
 * **Journal/Working Paper:** *Economic & Political Weekly*, Vol. LVIII, No. 16, pp. 40–47
 * **DOI/Link:** Published in EPW, April 22, 2023
+* **Direct Download:** [Aggarwaletal2023-AtmanirbharBharatAbhiyan-EPW-NewVersion1.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Aggarwaletal2023-AtmanirbharBharatAbhiyan-EPW-NewVersion1.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the determinants of domestic value added (DVA) content in India's manufacturing exports across 10 key industrial sectors over 2000–2018, in the context of the Atmanirbhar Bharat Abhiyan (self-reliance campaign). Using OECD Trade in Value Added (TiVA) data combined with ASI and DPIIT sources, the authors estimate a Cobb-Douglas type production function in a panel data framework. The empirical results from a GLS random effects model show that domestic capital, FDI, skilled labour, and raw materials positively influence DVA content, while unskilled labour has a negative effect. An interaction term between FDI and skill intensity is also positive and significant. The findings suggest that export-led and FDI-promotion policies alone will not achieve self-reliance without coordinated skill augmentation and technology transfer.
@@ -147,6 +149,7 @@ This paper examines the determinants of domestic value added (DVA) content in In
 * **Year:** 2018 (published online April 2017)
 * **Journal/Working Paper:** *Cambridge Journal of Economics*, Vol. 42, No. 1, pp. 137–153
 * **DOI/Link:** [10.1093/cje/bew068](https://doi.org/10.1093/cje/bew068) | JSTOR Stable URL: https://www.jstor.org/stable/10.2307/26784208
+* **Direct Download:** [Basu-ProfitabilityIndiasOrganized-2018.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Basu-ProfitabilityIndiasOrganized-2018.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper analyses profitability trends in India's organized manufacturing sector from 1982–83 to 2012–13 using aggregate ASI data. The authors construct replacement cost capital stock estimates via the perpetual inventory method and decompose the rate of profit into three components—profit share (distribution), capacity utilization rate (aggregate demand), and capacity-capital ratio (technology)—following the Weisskopf (1979) framework. Over the full period, the profit rate grew at approximately 1% per annum, driven primarily by a rising profit share (regressive redistribution away from labour). Five shorter-run profitability regimes are identified, with technology and demand fluctuations being the primary drivers of short-run profitability changes.
@@ -219,6 +222,7 @@ All variables map directly as the study already uses Indian ASI data. For extens
 * **Year:** 2012
 * **Journal/Working Paper:** *The Journal of Industrial Statistics*, Vol. 1, No. 2, pp. 222–240
 * **DOI/Link:** Not available (published by CSO/MoSPI)
+* **Direct Download:** [Comparative_between_Organised_Unorganised_Manu_corr_sep12.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Comparative_between_Organised_Unorganised_Manu_corr_sep12.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper undertakes a descriptive comparative analysis between India's organized and unorganized manufacturing sectors using ASI 2004–05 data for the organized sector and NSS 62nd Round (2005–06) data for the unorganized sector. The comparison is performed for five industry groups (Wearing Apparel, Food Products, Furniture, Textiles, and Tobacco) along parameters such as industry size (workers per enterprise), workers' performance (GVA per worker, output per worker), industrial productivity (input-output ratio), wage rate, energy efficiency, and female participation ratio. Key findings include: industry size is much smaller in the unorganized sector; productivity (input-output ratio) is higher in the unorganized sector (likely due to service-based receipts); wages are substantially higher in the organized sector; and female participation is greater in the organized sector.
@@ -285,6 +289,7 @@ All variables (workers, GVA, input, output, emoluments, fuel, gender-wise employ
 * **Year:** 2025
 * **Journal/Working Paper:** *Economics Bulletin*, Volume 0, Issue 0, pp. 1544–1553
 * **DOI/Link:** Submitted July 2, 2025; Published October 16, 2025
+* **Direct Download:** [EB-25-V0-I0-P134.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/EB-25-V0-I0-P134.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study identifies the key drivers of ICT adoption among India's unorganized sector enterprises across four major industries: Manufacturing, Hospitality, Wholesale & Retail, and Construction & Real Estate. Using microdata from the Annual Survey of Unincorporated Sector Enterprises (ASUSE 2023), an ordinal probit regression model is employed where ICT adoption is coded as a three-category ordinal variable (no adoption, partial adoption, full adoption). The findings show that educated owners, access to finance, larger firms, younger firms, and urban location are associated with higher ICT adoption. Aggregate-level factors such as state-wise innovation index and internet penetration also positively influence adoption, though digital literacy shows a negative effect for manufacturing, and internet penetration is negative for hospitality, suggesting sector-specific structural barriers.
@@ -354,6 +359,7 @@ All variables map directly from the ASUSE microdata questionnaire:
 * **Year:** 2025
 * **Journal/Working Paper:** *Sarvekshana* (Journal of MoSPI/NSO), 118th–119th Issue (Final version received May 2025, accepted August 2025)
 * **DOI/Link:** Not available (government publication)
+* **Direct Download:** [FinalSarvekshana118119thIssue_14.10.2025-54-71.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/FinalSarvekshana118119thIssue_14.10.2025-54-71.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the relationship between capital investment (measured by owned fixed assets per worker) and labour productivity (output per worker) in India's informal sector, using unit-level data from ASUSE 2023–24. The analysis covers manufacturing, trade, and services sectors, separately for Own Account Enterprises (OAEs) and Hired Worker Establishments (HWEs). A log-linear production function is estimated with controls for ICT adoption, loan availability, firm age, urban/rural location, and household-based operation. The results reveal a significant positive association between capital investment and productivity across all sectors, with stronger effects in manufacturing OAEs. ICT adoption and loan availability significantly enhance productivity, particularly for OAEs. For HWEs, emolument per worker (human capital investment) emerges as the primary productivity driver, while the capital–productivity link is weaker.
@@ -423,6 +429,7 @@ All variables are directly available in the ASUSE microdata:
 * **Year:** 2023
 * **Journal/Working Paper:** *The Indian Economic Journal*, pp. 1–19 (Article first published online 2023)
 * **DOI/Link:** [10.1177/00194662231202088](https://doi.org/10.1177/00194662231202088)
+* **Direct Download:** [Firm Size and Productivity in the Informal Sector Evidence from India.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Firm%20Size%20and%20Productivity%20in%20the%20Informal%20Sector%20Evidence%20from%20India.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study examines the relationship between firm size and productivity in India's informal (unorganized) sector using a novel pseudo-panel data design. By combining three nationally representative NSSO cross-sectional surveys (55th Round: 1999–2000, 67th Round: 2010–11, 73rd Round: 2015–16), the authors construct 47,683 cohorts based on state, industry, location, ownership, and size quantiles. Total factor productivity (TFP) is estimated using the Wooldridge-modified Olley-Pakes semi-parametric method. Random effects and dynamic panel specifications reveal a strong positive relationship between firm size (employment-based) and TFP across all major industries. However, the analysis also shows that while GVA rises with firm size, average wages remain stagnant—indicating capital accumulation at the expense of labour exploitation. The findings support a "carrot-and-stick" approach to gradual formalization.
@@ -498,6 +505,7 @@ This study examines the relationship between firm size and productivity in India
 * Year: 2003
 * Journal/Working Paper: Harvard Business School Working Paper (later published in various forms)
 * DOI/Link: Not specified in manuscript; contact: lalfaro@hbs.edu
+* Direct Download: [Foreign_Direct_Investment_and_Growth_does_the_sect.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Foreign_Direct_Investment_and_Growth_does_the_sect.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates whether the growth effects of foreign direct investment (FDI) differ across economic sectors—primary, manufacturing, and services. Using cross-country data for 47 countries over 1981–1999, the study finds that aggregate FDI has an ambiguous effect on economic growth. However, when disaggregated by sector, FDI in the primary sector tends to have a negative effect on growth, FDI in manufacturing exerts a positive and significant effect, and evidence for the services sector remains inconclusive. The results are robust to controls for human capital, financial development, institutional quality, and lagged FDI values.
@@ -568,6 +576,7 @@ This paper investigates whether the growth effects of foreign direct investment 
 * Year: 2007
 * Journal/Working Paper: ARTNeT Working Paper Series, No. 36, Asia-Pacific Research and Training Network on Trade (ARTNeT), Bangkok
 * DOI/Link: https://hdl.handle.net/10419/178394
+* Direct Download: [GOLDER_FDI.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/GOLDER_FDI.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines how trade liberalization in India during the 1990s influenced FDI inflows into manufacturing industries. Analyzing the channels through which different types of trade—particularly materials import intensity (reflecting cross-border vertical integration) and intra-industry trade—affect FDI, the authors employ three levels of analysis: (i) a panel data model for 78 three-digit industries over 1991–92 to 1997–98, (ii) an inter-firm cross-sectional analysis, and (iii) an inter-state analysis. Results indicate that tariff reductions increased materials import intensity and intra-industry trade; the former had a favourable effect on FDI inflows, while horizontal intra-industry trade did not significantly boost FDI. Trade associated with cross-border vertical integration is found to be the more important channel.
@@ -636,6 +645,7 @@ This paper examines how trade liberalization in India during the 1990s influence
 * Year: 2017
 * Journal/Working Paper: Journal of Rural and Industrial Development, Volume 5, Issue 2, October 2017
 * DOI/Link: Not specified; author contact: dilip.gu@gmail.com
+* Direct Download: [How_Diversified_is_the_Informal_Manufact.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/How_Diversified_is_the_Informal_Manufact.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the structural base and degree of diversification of India's informal (unorganised) manufacturing sector across states. Using data from NSSO quinquennial rounds on unorganised manufacturing enterprises for 1994–95, 2005–06, and 2010–11, the study employs location quotients to identify the industrial base of each state and a diversification coefficient to measure the extent of industrial diversity at the two-digit industry level. The analysis also examines co-location patterns of informal manufacturing enterprises. Results show that most Indian states have a narrow industrial base, diversification is limited, and there is a significant positive correlation between diversification of the informal manufacturing sector and the level of industrial development.
@@ -700,6 +710,7 @@ This paper examines the structural base and degree of diversification of India's
 * Year: 2020
 * Journal/Working Paper: Economic & Political Weekly (EPW), Vol. LV, No. 10, March 7, 2020
 * DOI/Link: Not specified
+* Direct Download: [Long-run Performance of the Organised Manufacturing Sector in India.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Long-run%20Performance%20of%20the%20Organised%20Manufacturing%20Sector%20in%20India.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper traces the evolution of key parameters—employment, wages, capital intensity, and productivity—in India's organised manufacturing sector over a 34-year period (1983–2017) using ASI data at the 3-digit NIC level. Employing the Bai-Perron structural breakpoint test, the authors identify three statistically distinct sub-periods: 1988–96 (weak employment growth, rapid capital substitution, rising wages), 1996–2006 (employment decline, stagnant wages, growing productivity-wage divergence), and 2006–17 (strong employment and wage growth despite rising capital intensity). A shift-share decomposition reveals that the decline in the labour-to-capital ratio is predominantly driven by within-industry changes rather than compositional shifts across industries. The authors also construct an industry typology based on the capacity to deliver both employment and wage growth.
@@ -765,6 +776,7 @@ This paper traces the evolution of key parameters—employment, wages, capital i
 * Year: 2019
 * Journal/Working Paper: Southern Economic Journal, 86(1), 339–362
 * DOI/Link: https://doi.org/10.1002/soej.12368
+* Direct Download: [Product Scope and Productivity_ Evidence from India's Product Reservation Policy.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Product%20Scope%20and%20Productivity_%20Evidence%20from%20India%27s%20Product%20Reservation%20Policy.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines how India's product reservation policy—which reserved certain products for exclusive manufacture by small-scale enterprises—affected firm size, productivity, product churning, and industry dynamics. Leveraging quasi-exogenous variation in the timing of dereservation of over 800 products between 1997 and 2010, the authors employ a difference-in-differences framework using firm-level ASI data from 2000 to 2010. They find that dereservation increased firm size and productivity by 1–4%, driven primarily by multiproduct firms entering previously restricted product spaces. Firms responded by adding formerly reserved products while shedding less profitable unreserved products, leading to a net reduction in product scope accompanied by TFP gains. The findings underscore the importance of intra-firm heterogeneity in assessing size-contingent regulations.
@@ -835,6 +847,7 @@ This paper examines how India's product reservation policy—which reserved cert
 * Year: 2020
 * Journal/Working Paper: Jharkhand Journal of Development and Management Studies (XISS, Ranchi), Vol. 18, No. 1 & 2, Jan.–June 2020, pp. 8395–8409
 * DOI/Link: Not specified
+* Direct Download: [REGIONAL_CONCENTRATION_OF_UNORGANISED_MA.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/REGIONAL_CONCENTRATION_OF_UNORGANISED_MA.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study analyses the regional disparity of the unorganised manufacturing sector (UMS) and the broader unorganised sector (US) in India using data from the NSSO 73rd round (2015–16). The authors examine spatial distribution across Indian regions and states using the number of enterprises, value of fixed assets, gross value added, and total workers as key indicators. Concentration Ratios (CR) and Location Herfindahl-Hirschman Index (HHI) are computed to assess the degree of spatial concentration at aggregate and disaggregated regional levels. Findings reveal significant regional disparity, with South and West India dominating in terms of GVA and fixed assets, while East India leads in the number of enterprises. The study highlights that the unorganised manufacturing sector is unevenly distributed, with policy implications for balanced regional industrial development.
@@ -899,6 +912,7 @@ This study analyses the regional disparity of the unorganised manufacturing sect
 * Year: 2005
 * Journal/Working Paper: Review of Development Economics, 9(1), 47–68
 * DOI/Link: https://doi.org/10.1111/j.1467-9361.2005.00263.x
+* Direct Download: [Review Development Economics - 2005 - Lall - Industrial Location and Spatial Inequality  Theory and Evidence from India.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Review%20Development%20Economics%20-%202005%20-%20Lall%20-%20Industrial%20Location%20and%20Spatial%20Inequality%20%20Theory%20and%20Evidence%20from%20India.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper argues that spatial inequality of industrial location is a primary driver of spatial income inequality in developing nations, using India as a case study. The analysis has two components. First, the authors estimate a translog cost function augmented with economic geography variables (market access, own-industry concentration, interindustry backward linkages, and economic diversity) using plant-level ASI data for 1998–99 across eight manufacturing sectors, finding that local industrial diversity is the only factor with significant and substantial cost-reducing effects. Second, they analyse the determinants of new post-reform industrial investment location at the district level using logistic and OLS regression models, showing that private sector investments strongly favour existing industrial clusters and coastal districts, while central government investments are less spatially biased. The authors conclude that structural reforms and liberalisation have led to increased spatial concentration of industry and, consequently, greater spatial income inequality.
@@ -973,6 +987,7 @@ This paper argues that spatial inequality of industrial location is a primary dr
 * **Year:** 2012
 * **Journal/Working Paper:** IZA Discussion Paper No. 6785, Institute for the Study of Labor (IZA)
 * **DOI/Link:** http://hdl.handle.net/10419/62588
+* **Direct Download:** [Subcontracting_and_the_Size_and_Composition_mono.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/Subcontracting_and_the_Size_and_Composition_mono.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the relationship between formal sector subcontracting and the evolution of the informal manufacturing sector in India during 1994–2006. The authors contrast a "modernization" view (subcontracting promotes upgrading in the informal sector) against a "stagnation" view (subcontracting perpetuates low-wage traditional activities). Using enterprise-level data aggregated to the state-industry level, the study finds that formal sector subcontracting is positively related to the size of the most modern segment of the informal sector, supporting the modernization hypothesis. No evidence is found that increased outsourcing by formal firms drives expansion of very traditional informal activities.
@@ -1038,6 +1053,7 @@ This paper examines the relationship between formal sector subcontracting and th
 * **Year:** 2021
 * **Journal/Working Paper:** NIPFP Working Paper No. 339, National Institute of Public Finance and Policy
 * **DOI/Link:** https://www.nipfp.org.in/publications/working-papers/1936/
+* **Direct Download:** [The Indian manufacturing sector financetechnology.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/The%20Indian%20manufacturing%20sector%20financetechnology.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates whether financial stress (high leverage and debt overhang) caused the investment slowdown in Indian manufacturing firms during 2005–2019. Using firm-level data on 804 manufacturing companies classified by market capitalization (large, mid, and small cap), the authors estimate a system of three simultaneous dynamic panel equations for investment growth, debt-equity ratio, and profitability using two-step GMM. The study does not find substantial evidence that financial stress is a major determinant of the investment slowdown. Instead, declining sales growth emerges as the primary factor behind falling fixed investment and profits, supporting the pecking order theory of capital structure, particularly for larger firms.
@@ -1102,6 +1118,7 @@ This paper investigates whether financial stress (high leverage and debt overhan
 * **Year:** 2005
 * **Journal/Working Paper:** The Journal of Finance, Vol. 60, No. 2
 * **DOI/Link:** https://doi.org/10.1111/j.1540-6261.2005.00753.x
+* **Direct Download:** [The Journal of Finance - 2005 - GUPTA - Partial Privatization and Firm Performance.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/The%20Journal%20of%20Finance%20-%202005%20-%20GUPTA%20-%20Partial%20Privatization%20and%20Firm%20Performance.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines whether partial privatization — the sale of minority government stakes through public equity offerings without transferring management control — improves the performance of state-owned enterprises in India. Using accounting data on the population of non-financial SOEs owned by central and state governments (1990–2002), the study finds that a 10-percentage point decrease in government ownership leads to significant increases in sales (13%), profits (10%), average labor productivity (8%), and R&D investment. The results are robust to dynamic GMM estimation, alternative control groups, and controls for competition policy changes, supporting the hypothesis that stock market listing addresses managerial rather than political inefficiency in SOEs.
@@ -1168,6 +1185,7 @@ This paper examines whether partial privatization — the sale of minority gover
 * **Year:** 2008
 * **Journal/Working Paper:** Transnational Corporations, Vol. 17, No. 2 (August 2008), UNCTAD
 * **DOI/Link:** Not available (UNCTAD publication)
+* **Direct Download:** [The_impact_of_FDI_inflows_on_R_and_D_inv.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/The_impact_of_FDI_inflows_on_R_and_D_inv.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study investigates the effect of FDI inflows on the R&D activities of domestic firms in medium- and high-tech manufacturing industries in India after the 1991 liberalization. It makes two methodological contributions: (i) accounting for firms with in-house R&D units recognized by the Department of Science and Technology (DST) but reporting zero R&D expenditure, and (ii) using actual FDI inflows rather than approvals. Using probit and tobit models on firm-level data for 190 firms across seven industries, the paper finds that in the initial post-reform period (1994–1996), increased FDI inflows had a significant negative impact on domestic firms' propensity to invest in R&D. In the later period (1999–2001), the negative effect becomes statistically insignificant.
@@ -1235,6 +1253,7 @@ This study investigates the effect of FDI inflows on the R&D activities of domes
 * **Year:** 2025
 * **Journal/Working Paper:** ISID Working Paper No. 299, Institute for Studies in Industrial Development
 * **DOI/Link:** https://isid.org.in (ISID Working Paper series)
+* **Direct Download:** [WP299.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/WP299.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study assesses regional Total Factor Productivity (TFP) across India's organised and unorganised manufacturing sectors for 18 major states over 2000–01 to 2022–23. Using the Ackerberg, Caves, and Frazer (2015) semi-parametric method to estimate a gross value-added production function at the NIC 4-digit level for 22 industry groups, the paper reveals a dual-track evolution: the organised sector shows maturation and consolidation in productivity (especially in chemicals, textiles, and leather since 2010), while the unorganised sector exhibits mixed performance with sharp divergence across states after 2010. The findings underscore significant regional and sectoral disparities, calling for targeted policy interventions to promote technological adoption in the unorganised sector.
@@ -1304,6 +1323,7 @@ This study assesses regional Total Factor Productivity (TFP) across India's orga
 * **Year:** 2013
 * **Journal/Working Paper:** IIM Ahmedabad Working Paper No. 2013-02-01
 * **DOI/Link:** Available at IIM Ahmedabad Research and Publications repository
+* **Direct Download:** [basant_concentration_r&D.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/basant_concentration_r%26D.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the role of expected market concentration, alongside other structural, conduct, performance, and policy variables, in determining inter-industry variations in R&D intensity in Indian manufacturing. Drawing on the Kamien-Schwartz (1982) framework that firms' innovative efforts depend on anticipated market power, the authors use the Arellano-Bond dynamic panel data estimation technique on a dataset of 34 manufacturing industries over 2001–02 to 2008–09. The study finds that past R&D intensity, MNC participation, capital intensity, and export orientation positively influence R&D efforts, while mergers and acquisitions and import competition reduce them. Notably, actual market concentration (measured by multiple indices) does not significantly affect R&D intensity.
@@ -1374,6 +1394,7 @@ This paper examines the role of expected market concentration, alongside other s
 * **Year:** 2014
 * **Journal/Working Paper:** University of Massachusetts Boston, Department of Economics Working Paper 2014-08
 * **DOI/Link:** UMass Boston working paper series
+* **Direct Download:** [basole_subcontacting.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/basole_subcontacting.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates the determinants and productivity effects of subcontracting on firms in India's informal manufacturing sector. Applying a modified Heckman selection model to firm-level data from the NSS 62nd Round (2005–06), the authors test two competing perspectives: the "benign" view (subcontracting benefits relatively modern informal firms) and the "exploitation" view (formal firms extract surplus from stagnant, asset-poor informal firms using cheap family labor). The study finds that home-based, asset-poor, and female-owned firms are more likely to be subcontracted — consistent with the exploitation view in terms of selection. However, selectivity-corrected Oaxaca-Blinder decomposition and treatment effect analysis reveal that subcontracting provides a small productivity premium, particularly benefiting smaller firms, firms in industrially backward states, and rural firms, while larger firms and firms in advanced states face a subcontracting penalty.
@@ -1444,6 +1465,7 @@ This paper investigates the determinants and productivity effects of subcontract
 * **Year:** 2015
 * **Journal/Working Paper:** The Journal of Industrial Statistics, Vol. 4, No. 1, pp. 1–18
 * **DOI/Link:** Not available
+* **Direct Download:** [fdi_fp_goldar.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/fdi_fp_goldar.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates whether foreign direct investment (FDI) in Indian manufacturing firms improves their performance, measured through growth (sales), profitability, and export intensity. Using a difference-in-difference (DID) estimator combined with propensity score matching (PSM) on an unbalanced panel of 775 manufacturing companies from 2000–01 to 2011–12, the authors compare firms that transitioned from domestic to foreign ownership with matched control firms. The results show no significant effect of FDI on sales growth or export performance. However, there is weak evidence that FDI may raise profitability after two to three years, possibly reflecting a delayed productivity-enhancing effect.
@@ -1507,6 +1529,7 @@ This paper investigates whether foreign direct investment (FDI) in Indian manufa
 * **Year:** 2025
 * **Journal/Working Paper:** Working Paper (November 2025); affiliations: Institute of Economic Growth, Delhi; Institute for Human Development, New Delhi; University of Groningen
 * **DOI/Link:** Not available (preprint)
+* **Direct Download:** [goldar_asuse_gender.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/goldar_asuse_gender.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines gender-based productivity gaps in India's informal manufacturing sector, distinguishing between own-account enterprises (OAEs) and manufacturing establishments (MEs) that employ hired workers. Using unit-level data from the Annual Survey of Unincorporated Sector Enterprises (ASUSE) 2023–24, the authors find that the gender productivity gap (measured as GVA per worker) is primarily concentrated among OAEs, particularly single-worker enterprises. Among MEs with more than five workers, no statistically significant productivity difference exists between male- and female-owned firms. The gap narrows further when female-owned enterprises possess higher levels of capital stock. The study highlights that the location of operations (household premises vs. outside) and financial constraints are key drivers of the observed gap.
@@ -1569,6 +1592,7 @@ This paper examines gender-based productivity gaps in India's informal manufactu
 * **Year:** 2011
 * **Journal/Working Paper:** SERC Discussion Paper 72, Spatial Economics Research Centre, London School of Economics
 * **DOI/Link:** Not available (SERC Discussion Paper series)
+* **Direct Download:** [industry-and-the-urge-to-cluster-a-study-of-the-informal-96du66x5s4.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/industry-and-the-urge-to-cluster-a-study-of-the-informal-96du66x5s4.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates the determinants of firm location choice at the district level in India to assess the relative importance of agglomeration economies versus business environment factors for the informal (unorganised) sector. Using data from the National Sample Survey covering over 4.4 million firms in unorganised manufacturing and services, the empirical analysis employs count models (Poisson and negative binomial regressions). The count of new informal firm births per district is modelled as a function of localisation economies, inter-industry buyer-supplier linkages, urbanisation economies (diversity), market access, infrastructure, education, and wages. To address endogeneity, the author instruments with historical land revenue institutions. Results indicate that buyer-supplier linkages and industrial diversity significantly attract informal firms, along with infrastructure quality, suggesting that public policy may have limited ability to encourage relocation of informal firms against the forces of agglomeration.
@@ -1638,6 +1662,7 @@ This paper investigates the determinants of firm location choice at the district
 * **Year:** 2010
 * **Journal/Working Paper:** MPRA Paper No. 20951, Munich Personal RePEc Archive; Sardar Patel Institute of Economic & Social Research (SPIESR), Ahmedabad
 * **DOI/Link:** https://mpra.ub.uni-muenchen.de/20951/
+* **Direct Download:** [jp_r&d.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/jp_r%26d.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper analyzes trends and determinants of in-house R&D investment by Indian manufacturing SMEs during 1991–2008. Using the Prowess database (CMIE), the author documents that Indian SMEs have the lowest incidence of R&D among firm size categories, and their R&D intensities have declined in the 2000s relative to the 1990s. However, among the sub-sample of SMEs that do engage in R&D, intensities are actually higher than those of large firms. The determinants of R&D intensity are estimated using a three-step Censored Quantile Regression (CQR) approach, which is robust to non-normal, heteroscedastic errors. Key findings include positive effects of firm age, firm size (with an inverted-U relationship), export orientation, raw material imports, business group affiliation, foreign firm affiliation, profit margins, sectoral R&D intensity, and competitive pressure from foreign investment and imports on SME R&D intensity.
@@ -1704,6 +1729,7 @@ This paper analyzes trends and determinants of in-house R&D investment by Indian
 * **Year:** 2016
 * **Journal/Working Paper:** Millennial Asia, Vol. 7(2), pp. 184–206; SAGE Publications
 * **DOI/Link:** DOI: 10.1177/0976399616655032
+* **Direct Download:** [mehta-2016-innovation-and-employment-a-study-of-indian-manufacturing-sector.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/mehta-2016-innovation-and-employment-a-study-of-indian-manufacturing-sector.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the impact of innovation — both product and process — on employment in the Indian manufacturing sector. Using firm-level panel data from four industries of different technological intensity (pharmaceuticals as high-tech, transport as medium-high-tech, ferrous metals as medium-low-tech, and textiles as low-tech) over 2000–01 to 2013–14, the author employs Generalized Least Squares (GLS) panel regression controlling for heteroscedasticity and autocorrelation. Product innovation (proxied by expenditure on R&D, royalties, and technical fees) is found to have a significant positive effect on employment across all four industries, regardless of technology intensity. Process innovation (proxied by efficiency in use of assets) does not show a significant effect. The paper argues for building a "system of innovation" that encourages product (radical) innovations for long-term growth and employment.
@@ -1770,6 +1796,7 @@ This paper examines the impact of innovation — both product and process — on
 * **Year:** 2014
 * **Journal/Working Paper:** IZA Journal of Labor & Development, Vol. 3, Article 22 (Open Access)
 * **DOI/Link:** http://www.izajold.com/content/3/1/22
+* **Direct Download:** [mono_subcontracting.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/mono_subcontracting.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper investigates the link between formal sector subcontracting and informal sector employment in Indian manufacturing during 1995–2006. A key novelty is distinguishing between "modern" and "traditional" segments of the informal sector using a continuous, multi-dimensional modernity index based on capital-labor ratio, enterprise location, hired workers, and technical qualifications of owners. Using a state-industry panel constructed from nationally representative data (ASI for formal sector, NSS for informal sector), the authors estimate fixed-effects models and find that formal sector subcontracting is positively associated with employment growth only in the most modern segments of the informal sector. Increased subcontracting cannot explain persistently high employment in traditional informal manufacturing. These findings support the "modernization view" of informal-formal linkages.
@@ -1835,6 +1862,7 @@ This paper investigates the link between formal sector subcontracting and inform
 * **Year:** 2013
 * **Journal/Working Paper:** The Journal of Developing Areas, Vol. 47, No. 2, Fall 2013
 * **DOI/Link:** Project MUSE (https://muse.jhu.edu/article/503598)
+* **Direct Download:** [project_muse_503598.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/project_muse_503598.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the technical efficiency of informal sector enterprises in India and tests whether firms operating on contracts with formal firms/agencies are more efficient than non-contracting firms. Using unit-level data from the NSSO 55th Round (1999–2000) enterprise survey, the author applies a two-stage Data Envelopment Analysis (DEA) approach. In the first stage, output-oriented technical efficiency scores are computed. In the second stage, a Tobit censored regression identifies determinants of inefficiency. The analysis is conducted separately for Delhi (a developed state) and Orissa (an underdeveloped state). Key findings are that firms on contracts are less efficient in Delhi but more efficient in Orissa. Additionally, enforcement of regulations makes firms more inefficient in both states, raising questions about the wisdom of formalizing the informal sector through regulation.
@@ -1907,6 +1935,7 @@ This paper examines the technical efficiency of informal sector enterprises in I
 * **Year:** 2024
 * **Journal/Working Paper:** ISID Working Paper No. 285, Institute for Studies in Industrial Development, New Delhi
 * **DOI/Link:** https://isid.org.in
+* **Direct Download:** [prowess_asi_r&d.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/prowess_asi_r%26d.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study investigates firm-level R&D investment behaviour in India's organised manufacturing sector using nationally representative unit-level data from the Annual Survey of Industries (ASI) for the period 2015-16 to 2021-22. The paper distinguishes R&D propensity and intensity across small-and-medium-size (SMS) and large firms, and across technology-intensity classifications. Using the Cragg double-hurdle model and the Heckman selection model, it examines determinants of R&D engagement and expenditure, incorporating novel variables such as product-subsidy reception and industrial concentration. Key findings indicate that while aggregate R&D spending is rising, R&D intensity shows a declining trend. SMS firms exhibit higher R&D intensity than large firms in both low- and high-tech sectors, though the pandemic has eroded this advantage. Larger firms, those with foreign capital, and high-tech industry affiliation are more likely to engage in and spend more on R&D. Product subsidies show limited direct impact on R&D engagement likelihood, though firms receiving subsidies on a larger number of products show significantly positive effects.
@@ -1980,6 +2009,7 @@ This study investigates firm-level R&D investment behaviour in India's organised
 * **Year:** ~2008 (working paper / conference paper)
 * **Journal/Working Paper:** Working Paper, Department of Humanities and Social Sciences, Indian Institute of Technology Bombay
 * **DOI/Link:** Contact: knn@iitb.ac.in
+* **Direct Download:** [prowess_r&D.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/prowess_r%26D.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study identifies the determinants of R&D investment in the Indian pharmaceutical sector, with particular attention to the role of outward foreign direct investment (OFDI). Using an unbalanced panel of 173 pharmaceutical firms from 1990 to 2005 sourced from the CMIE Prowess database, the authors employ Probit and Tobit models to examine both the probability of undertaking R&D and R&D intensity. An inverted-U relationship between firm size and R&D is identified. Older firms, export-oriented firms, and those importing capital goods invest more in R&D. Outward investment by a firm reduces the probability of investing in R&D, suggesting a substitution effect. A sub-sample of outward-investing firms (390 observations) reveals that firm size, export intensity, and capital goods imports positively influence R&D decisions among internationalising firms.
@@ -2050,6 +2080,7 @@ This study identifies the determinants of R&D investment in the Indian pharmaceu
 * **Year:** 2017
 * **Journal/Working Paper:** ISID Working Paper No. 198, Institute for Studies in Industrial Development, New Delhi
 * **DOI/Link:** http://isid.org.in
+* **Direct Download:** [rijesh_itrade.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/rijesh_itrade.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study examines the impact of international trade on manufacturing productivity in India using a balanced panel of 17 two-digit organised manufacturing industries over 1980–2013. Rather than using trade policy dummies, the author constructs ex-post trade variables—relative import price, import penetration ratio, and export intensity—to capture distinct theoretical channels (economies of scale, reallocation, competition, and spillover effects). Using random-effects panel estimation (selected via Hausman test), with FGLS as a robustness check, the study finds trade-induced productivity gains primarily channelled through imports, becoming prominent after 1–2 year lags. While exports show a positive association with productivity, the relationship is statistically significant only contemporaneously. The results underscore the dynamic rather than static nature of trade's impact on Indian manufacturing productivity.
@@ -2120,6 +2151,7 @@ This study examines the impact of international trade on manufacturing productiv
 * **Year:** 2018
 * **Journal/Working Paper:** *Science, Technology & Society*, Vol. 23, No. 1, pp. 65–84
 * **DOI/Link:** DOI: 10.1177/0971721817744445
+* **Direct Download:** [seenaiah-rath-2018-determinants-of-innovation-in-selected-manufacturing-firms-in-india-role-of-r-d-and-exports.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/seenaiah-rath-2018-determinants-of-innovation-in-selected-manufacturing-firms-in-india-role-of-r-d-and-exports.pdf)
 
 ### 2. Abstract (Concise Summary)
 This study examines the determinants of innovation in Indian manufacturing firms using a primary survey of 190 firms from Bengaluru and Hyderabad, combined with secondary data from the CMIE Prowess database for the period 2011–2013. Innovation is defined as a binary outcome capturing product, process, marketing, or organisational innovation. Using a panel probit model, the authors find that exports and R&D expenditure positively and significantly drive innovation. Import intensity, manager's prior foreign-firm experience, and employee training also positively affect innovation. However, firm age and capital intensity have negative effects. A sub-sample analysis of capital-intensive firms is also conducted. The findings underline the importance of export orientation and R&D subsidies for boosting innovation in Indian manufacturing.
@@ -2190,6 +2222,7 @@ This study examines the determinants of innovation in Indian manufacturing firms
 * **Year:** 2025
 * **Journal/Working Paper:** CRIT/CWS Working Paper Series No. 89, Centre for WTO Studies / Centre for Research in International Trade, Indian Institute of Foreign Trade, New Delhi
 * **DOI/Link:** Not available (working paper)
+* **Direct Download:** [smruthi_Technological Capabilities and Exports_WP_89.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/smruthi_Technological%20Capabilities%20and%20Exports_WP_89.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper examines the drivers behind the expansion of India's technology-intensive (high-technology and medium-high-technology) manufacturing exports from 2008 to 2020. Using an unbalanced panel of 2,334 firms and 21,718 observations from the CMIE Prowess database, the study argues that export performance is primarily attributable to firms' technological capability-building through in-house R&D, human capital investment (staff training), and absorption of imported foreign technologies (capital goods, raw material imports, royalty payments). Employing Quasi-Maximum Likelihood Estimation (QMLE) as the primary method—appropriate for the fractional nature of the dependent variable (export intensity bounded between 0 and 1)—and Tobit estimation for robustness, the study finds that firms investing in R&D, human resources, and imported technology exhibit significantly higher export intensity. Location-specific variables (patents in region, ease of doing business, access to finance) also matter. Industry-level disaggregated analysis provides scope for targeted policy implications.
@@ -2270,6 +2303,7 @@ This paper examines the drivers behind the expansion of India's technology-inten
 * **Year:** 2018
 * **Journal/Working Paper:** CDE Working Paper No. 291, Centre for Development Economics, Delhi School of Economics, University of Delhi
 * **DOI/Link:** http://www.cdedse.org/pdf/work291.pdf
+* **Direct Download:** [work291.pdf](https://github.com/Anandarupa-web/industry-papers/blob/main/work291.pdf)
 
 ### 2. Abstract (Concise Summary)
 This paper undertakes a comparative analysis of total factor productivity (TFP) growth and levels between formal (organised) and informal (unorganised) manufacturing sectors in India for the period 1980-81 to 2011-12, using the India KLEMS database (version 2016). TFP growth is measured via a gross output function framework using Tornqvist indices, with Domar aggregation for sector-level aggregates. The study finds that average TFP growth in informal manufacturing (0.6% per annum) was significantly lower than in formal manufacturing (4.4% per annum) over 1980–2011. Both segments experienced declining TFP growth during 1994–2002 followed by marked acceleration during 2003–2011. The acceleration in formal manufacturing TFP is driven mainly by coke and petroleum products, while in informal manufacturing it is attributable to textiles and leather. Comparison of TFP levels reveals substantially lower productivity in informal manufacturing. A more detailed 25-industry decomposition analysis for 2010-11 identifies the sources of the formal-informal TFP gap.
